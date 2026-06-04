@@ -1,0 +1,5 @@
+D:\VS\Calculator\bin\publish\Calculator.exe
+D:\VS\Calculator\bin\publish\Calculator.dll
+D:\VS\Calculator\bin\publish\Calculator.deps.json
+D:\VS\Calculator\bin\publish\Calculator.runtimeconfig.json
+D:\VS\Calculator\bin\publish\Calculator.pdb

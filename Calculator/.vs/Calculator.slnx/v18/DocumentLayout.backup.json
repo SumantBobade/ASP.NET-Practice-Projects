@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2F0B8B-513C-440E-BB7C-48C402EF2226}|Calculator.csproj|d:\\vs\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2F0B8B-513C-440E-BB7C-48C402EF2226}|Calculator.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2F0B8B-513C-440E-BB7C-48C402EF2226}|Calculator.csproj|d:\\vs\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA2F0B8B-513C-440E-BB7C-48C402EF2226}|Calculator.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2F0B8B-513C-440E-BB7C-48C402EF2226}|Calculator.csproj|d:\\vs\\calculator\\calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2F0B8B-513C-440E-BB7C-48C402EF2226}|Calculator.csproj|solutionrelative:calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2F0B8B-513C-440E-BB7C-48C402EF2226}|Calculator.csproj|d:\\vs\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2F0B8B-513C-440E-BB7C-48C402EF2226}|Calculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2F0B8B-513C-440E-BB7C-48C402EF2226}|Calculator.csproj|d:\\vs\\calculator\\calculator.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{FA2F0B8B-513C-440E-BB7C-48C402EF2226}|Calculator.csproj|solutionrelative:calculator.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\VS\\Calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "D:\\VS\\Calculator\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T09:18:57.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs [Design]",
+              "DocumentMoniker": "D:\\VS\\Calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "D:\\VS\\Calculator\\Calculator.cs [Design]",
+              "RelativeToolTip": "Calculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T10:26:42.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.Designer.cs",
+              "DocumentMoniker": "D:\\VS\\Calculator\\Calculator.Designer.cs",
+              "RelativeDocumentMoniker": "Calculator.Designer.cs",
+              "ToolTip": "D:\\VS\\Calculator\\Calculator.Designer.cs",
+              "RelativeToolTip": "Calculator.Designer.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAArwAEBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T09:31:32.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\VS\\Calculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T09:54:51.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.resx",
+              "DocumentMoniker": "D:\\VS\\Calculator\\Calculator.resx",
+              "RelativeDocumentMoniker": "Calculator.resx",
+              "ToolTip": "D:\\VS\\Calculator\\Calculator.resx",
+              "RelativeToolTip": "Calculator.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-04T09:54:43.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
